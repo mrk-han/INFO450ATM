@@ -1,7 +1,7 @@
 ## INFO450ATM
 Topics Covered:  console input & output,  loops  and  conditional statements
 
-#Functional Requirements:
+# Functional Requirements:
 - You work for a progressive bank that is installing ATMs which will deliver withdrawals in  multiple bill denominations: $50, $20, $10, $5 and $1 
 - Write a program that determines number of bills to return with a withdrawal request.
 - Your program should start by  requesting the user to enter the amount to withdrawn
