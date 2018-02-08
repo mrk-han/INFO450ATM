@@ -22,3 +22,13 @@ Topics Covered:  console input & output,  loops  and  conditional statements
 - The program should continue accepting input and making change until the user enters  ‘0’ to quit.
 
 
+# Non Functional Requirements
+- Your program should be properly commented, clearly indicating what the program is doing
+- Your program should employ the use at least 2 loops (you choose: for or while or do-while)
+    - one that loops until a valid input is entered
+    - one that loops to allow for additional withdrawals
+- DO not use GOTOs
+
+# Submission Requirements
+- You  should upload your program to your github account  in a repository called:  INFO450ATM
+- Turn in your project on blackboard by uploading the URL to your github repository
