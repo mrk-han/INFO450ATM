@@ -11,11 +11,11 @@ Topics Covered:  console input & output,  loops  and  conditional statements
 - If the  Amount is not valid then the user will be asked to re-enter until a valid number is entered.
 - After a valid number is entered  the # of each bill type should be determined and presented, optimizing for the fewest number of bills
 - E.g.  Withdrawal of $200 should be 4 x $50.00  (versus 20  x $10 bills)
-    - # $50.00 bills
-    - # $20.00 bills
-    - # $10.00 bills
-    - # $5.00 bills
-    - # $1.00 bills
+    - \# $50.00 bills
+    - \# $20.00 bills
+    - \# $10.00 bills
+    - \# $5.00 bills
+    - \# $1.00 bills
 - Only show the amount if the number of bills is  >  0
     - e.g   do not show :   0  $50.00 bills
 - After presenting the change, the program should allow the use to enter another transaction
